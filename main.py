@@ -24,7 +24,7 @@ async def sarah(ctx):
 
 @bot.command()
 async def joseph(ctx):
-   await ctx.reply("Is a huge nerd!")
+   await ctx.reply("Is a certified nerd!")
 
 @bot.command()
 async def lepi(ctx):
